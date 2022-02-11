@@ -30,6 +30,8 @@ docker compose exec app bash
 
 composer update
 
+php artisan migrate
+
 docker compose exec web ash
 
 npm install && npm run dev
