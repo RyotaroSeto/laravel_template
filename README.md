@@ -18,6 +18,10 @@ mysql:8.0
 
 node:16-alpine
 
+### vue.js
+
+vue@3.2.30
+
 ## Usage
 
 ## 構築手順
